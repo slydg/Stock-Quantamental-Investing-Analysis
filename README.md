@@ -1,5 +1,9 @@
 # Stock Quantamental Investing Analysis Report
 
+## Contributors
+- slydg: AntiRomance@outlook.com
+- peihan-tian-simon: peihantian@brandeis.edu
+
 ## Results presentation and data sources
 - Back testing results: During the 90-day backtest period, the actual yield of 14% was much higher than the market's performance over the same period.
 
