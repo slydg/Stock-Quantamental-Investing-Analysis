@@ -4,6 +4,14 @@
 - slydg: AntiRomance@outlook.com
 - peihan-tian-simon: peihantian@brandeis.edu
 
+## How to use
+- ts_date: The folder of time series data for backtest 
+- basic_data: The folder of stocks` basic financial information
+- All files ended with '_data' are used to download data from tushare
+- basic_features: Using Lasso to select featurs
+- basic_model: A randomforest clasifier to decide which stock will possibly perform well in the next 3 months
+- back_test: Used to build strategies and calculate the return rate   
+
 ## Results presentation and data sources
 - Back testing results: During the 90-day backtest period, the actual yield of 14% was much higher than the market's performance over the same period.
 
