@@ -13,7 +13,7 @@
 - back_test: Used to build strategies and calculate the return rate   
 
 ## Results presentation and data sources
-- Back testing results: During the 90-day backtest period, the actual yield of 14% was much higher than the market's performance over the same period.
+- Back testing results: During the 90-day backtest period, the actual yield of 15% was much higher than the market's performance over the same period.
 
 ![avatar](back_test_result.png)
 - Data sources: Tushare
