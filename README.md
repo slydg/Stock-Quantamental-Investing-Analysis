@@ -3,6 +3,7 @@
 ## Contributors
 - slydg: AntiRomance@outlook.com
 - peihan-tian-simon: peihantian@brandeis.edu
+- Elisa: jiangsiyan396@gmail.com
 
 ## How to use
 - ts_date: The folder of time series data for backtest 
